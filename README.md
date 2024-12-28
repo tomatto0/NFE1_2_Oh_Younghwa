@@ -22,10 +22,15 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-EA5A47?style=for-the-badge&logo=Zustand&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+## 시스템 아키텍쳐
+![titleImg](readme_image/pre10.jpg)
 
 ## 팀원 소개
 
@@ -56,7 +61,7 @@
 
 [🔗 Notion 바로가기](https://neul.notion.site/2-159dc69321d780baafb3c623ea6e8b86?pvs=4)
 
-[![Notion](#)](https://neul.notion.site/2-159dc69321d780baafb3c623ea6e8b86?pvs=4)
+[![Notion](readme_image/notion.jpg)](https://neul.notion.site/2-159dc69321d780baafb3c623ea6e8b86?pvs=4)
 
 </details>
 
@@ -65,7 +70,7 @@
 
 [🔗 요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/12qMOclTXYbzc4r6kcgqZqwZhbI4VUvSuB4gtFj5n86g/edit?gid=0#gid=0)
 
-[![요구사항 명세서](#)](https://docs.google.com/spreadsheets/d/12qMOclTXYbzc4r6kcgqZqwZhbI4VUvSuB4gtFj5n86g/edit?gid=0#gid=0)
+[![요구사항 명세서](readme_image/pre11.jpg)](https://docs.google.com/spreadsheets/d/12qMOclTXYbzc4r6kcgqZqwZhbI4VUvSuB4gtFj5n86g/edit?gid=0#gid=0)
 
 </details>
 
@@ -74,7 +79,14 @@
 
 [🔗 FIGMA 바로가기](https://www.figma.com/design/DcxEgok2J8A7u1X8cLJ8O0/%EC%98%A4!%EC%98%81%ED%99%94-%ED%99%94%EB%A9%B4%EA%B8%B0%ED%9A%8D%EC%84%9C-%EC%99%B8%EB%B6%80%EA%B3%B5%EA%B0%9C%EC%9A%A9?node-id=0-1&t=W5ZOALXKEdeBgrHc-1)
 
-[![피그마 화면계획서](#)](https://www.figma.com/design/DcxEgok2J8A7u1X8cLJ8O0/%EC%98%A4!%EC%98%81%ED%99%94-%ED%99%94%EB%A9%B4%EA%B8%B0%ED%9A%8D%EC%84%9C-%EC%99%B8%EB%B6%80%EA%B3%B5%EA%B0%9C%EC%9A%A9?node-id=0-1&t=W5ZOALXKEdeBgrHc-1)
+[![피그마 화면계획서](readme_image/figma.jpg)](https://www.figma.com/design/DcxEgok2J8A7u1X8cLJ8O0/%EC%98%A4!%EC%98%81%ED%99%94-%ED%99%94%EB%A9%B4%EA%B8%B0%ED%9A%8D%EC%84%9C-%EC%99%B8%EB%B6%80%EA%B3%B5%EA%B0%9C%EC%9A%A9?node-id=0-1&t=W5ZOALXKEdeBgrHc-1)
 
 </details>
+
+## 🔍 상세 기능 소개
+![홈(타임라인)](readme_image/pre14.jpg)
+![검색](readme_image/pre16.jpg)
+![영화정보](readme_image/pre18.jpg)
+![알림](readme_image/pre20.jpg)
+![마이페이지](readme_image/pre22.jpg)
 
